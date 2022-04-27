@@ -1,1 +1,0 @@
-# spring-database-JDBC-h2-example
